@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Git Repository</br>
-Author Dhanesh Nambiyar
+Author Dhanesh Nambiyar (Diniti)
