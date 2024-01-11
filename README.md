@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first repository <br>
-Author - Dhanesh Nambiyar
+Author - Dhanesh Nambiyar PP
